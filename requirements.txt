@@ -1,4 +1,7 @@
-streamlit
 pandas
 numpy
 plotly
+streamlit
+scipy
+fpdf
+statsmodels
